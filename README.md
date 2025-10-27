@@ -17,17 +17,17 @@ It also demonstrates end-to-end data analytics workflow — from cleaning raw da
 
 🚀 Features
 
-🧩 Data Cleaning & Preprocessing: Removed missing values, standardized job titles, and encoded categorical variables.
+- Data Cleaning & Preprocessing: Removed missing values, standardized job titles, and encoded categorical variables.
 
-📊 Exploratory Data Analysis (EDA): Uncovered salary distribution patterns, outliers, and departmental trends using Python visualizations.
+- Exploratory Data Analysis (EDA): Uncovered salary distribution patterns, outliers, and departmental trends using Python visualizations.
 
-🔍 Hypothesis Testing: Applied statistical tests (t-tests, ANOVA) to validate assumptions such as “Experience significantly impacts salary” and “Department affects pay distribution.”
+- Hypothesis Testing: Applied statistical tests (t-tests, ANOVA) to validate assumptions such as “Experience significantly impacts salary” and “Department affects pay distribution.”
 
-🤖 Machine Learning Model: Built a Random Forest Regressor to predict employee salaries from structured datasets.
+- Machine Learning Model: Built a Random Forest Regressor to predict employee salaries from structured datasets.
 
-🧠 Feature Engineering: Derived features like experience level and job grade to enhance model precision.
+- Feature Engineering: Derived features like experience level and job grade to enhance model precision.
 
-📈 Power BI Dashboard: Created interactive visuals — actual vs predicted salary, top-paying departments, and salary trends by experience and position.
+- Power BI Dashboard: Created interactive visuals — actual vs predicted salary, top-paying departments, and salary trends by experience and position.
 
 🧰 Tech Stack
 
@@ -36,5 +36,6 @@ Languages: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy
 
 Visualization: Power BI
+
 
 Environment: Jupyter Notebook
